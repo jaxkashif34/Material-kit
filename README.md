@@ -6,7 +6,7 @@
 
 ![preview](public/static/preview.png)
 
-| [Material Free](https://minimal-kit-react.vercel.app/) | [Material](https://material-ui.com/store/items/materail-dashboard/) |
+| [Material Free]([https://minimal-kit-react.vercel.app/](https://material-kit-redesign.netlify.app/dashboard/app)) | [Material]([https://material-ui.com/store/items/materail-dashboard/](https://material-kit-redesign.netlify.app/dashboard/app)) |
 | ------------------------------------------------------ | :------------------------------------------------------------------ |
 | **7** Demo pages                                       | **42+** demo pages                                                  |
 | -                                                      | ✓ Multi-language                                                    |
