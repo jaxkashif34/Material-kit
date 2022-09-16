@@ -1,4 +1,4 @@
-## Material [(Material-kit)](https://material-kit-redesign.netlify.app)
+## Material [(Material-kit)]
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -6,7 +6,7 @@
 
 ![preview](public/static/preview.png)
 
-| [Material Free]([https://minimal-kit-react.vercel.app/](https://material-kit-redesign.netlify.app/dashboard/app)) | [Material]([https://material-ui.com/store/items/materail-dashboard/](https://material-kit-redesign.netlify.app/dashboard/app)) |
+| [Material Free] | [Material] |
 | ------------------------------------------------------ | :------------------------------------------------------------------ |
 | **7** Demo pages                                       | **42+** demo pages                                                  |
 | -                                                      | ✓ Multi-language                                                    |
@@ -14,16 +14,6 @@
 | -                                                      | ✓ [More components](https://minimals.cc/components)                 |
 | -                                                      | ✓ TypeScript version                                                |
 | -                                                      | ✓ Design files (Figma & Sketch)                                     |
-
-## Page demo
-
-- [Dashboard](https://material-kit-redesign.netlify.app/dashboard/app)
-- [Users](https://material-kit-redesign.netlify.app/dashboard/user)
-- [Product](https://material-kit-redesign.netlify.app/dashboard/products)
-- [Blog](https://material-kit-redesign.netlify.app/dashboard/blog)
-- [Login](https://material-kit-redesign.netlify.app/login)
-- [Register](https://material-kit-redesign.netlify.app/register)
-- [Not Found](https://material-kit-redesign.netlify.app/404)
 
 ## Getting started
 
