@@ -49,7 +49,7 @@ The project is deployed on [Vercel](https://vercel.com/dashboard). The demo site
 1.  Clone the repository to your local machine by using the following command in your terminal
 
     ```sh
-    git clone https://github.com/[jaxkashif34]/material-kit-swart.git
+    https://github.com/jaxkashif34/Material-kit.git
     ```
 
 2.  Change the directory to the cloned repository by using the following command
