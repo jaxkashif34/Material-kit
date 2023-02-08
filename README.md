@@ -72,12 +72,12 @@ The project is deployed on [Vercel](https://vercel.com/dashboard). The demo site
 
 ## <a id="Screenshots">Screenshots</a><br>
 
-![Dashboard](./screenshots/home.png 'Dashboard Page')
-![Dashboard](./screenshots/user.png 'User Page')
-![Dashboard](./screenshots/product.png 'Product Page')
-![Dashboard](./screenshots/blog.png 'Blog Page')
-![Dashboard](./screenshots/login.png 'LogIn Page')
-![Dashboard](./screenshots/register.png 'Register Page')
+![Dashboard Page](./screenshots/home.png 'Dashboard Page')
+![Uuser Page](./screenshots/user.png 'User Page')
+![Product Page](./screenshots/product.png 'Product Page')
+![Blog Page](./screenshots/blog.png 'Blog Page')
+![LogIn Page](./screenshots/login.png 'LogIn Page')
+![Register Page](./screenshots/register.png 'Register Page')
 
 ## <a id="Author">Author</a><br>
 
