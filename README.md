@@ -1,26 +1,82 @@
-## Material
+## Material-Kit
 
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
+A modern dashboard design using [Material-UI](https://mui.com/material-ui/getting-started/overview/), [React](https://reactjs.org/), and other popular technologies.
 
-> Free React Admin Dashboard made with Material-UI components and React.
+## Table of Contents
 
-![preview](public/static/preview.png)
+- ###  <u>[Features](#Features)</u>
 
-| [Material Free] | [Material] |
-| ------------------------------------------------------ | :------------------------------------------------------------------ |
-| **7** Demo pages                                       | **42+** demo pages                                                  |
-| -                                                      | ✓ Multi-language                                                    |
-| -                                                      | ✓ Dark/Light Mode 🌓                                                |
-| -                                                      | ✓ [More components](https://minimals.cc/components)                 |
-| -                                                      | ✓ TypeScript version                                                |
-| -                                                      | ✓ Design files (Figma & Sketch)                                     |
+- ###  <u>[Technologies](#Technologies)</u>
 
-## Getting started
+- ###  <u>[Installation](#Installation)</u>
 
-- Recommended `node js 14+` and `npm 6+`
-- Install dependencies: `npm install` or `yarn install`
-- Start the server: `npm run start` or `yarn start`
+- ###  <u>[Screenshots](#Screenshots)</u>
 
-## Contact us
+- ###  <u>[Author](#Author)</u>
 
-Email Us: jaxkashif34@gmail.com
+## <a id="Features">Features</a><br>
+
+-   Modern dashboard design
+-   Dynamic data generation with [Faker.js](https://fakerjs.dev/)
+-   Interactive chart with [ApexCharts](https://apexcharts.com/)
+-   User-friendly form validation with [Formik](https://formik.org/)
+-   Rich animations and interactions with [Framer Motion](https://www.framer.com/motion/)
+-   Client-side routing with [React Router](https://reactrouter.com/)
+
+
+## <a id="Technologies">Technologies</a><br>
+
+-   [React](https://reactjs.org/)
+-   [Material-UI](https://mui.com/material-ui/getting-started/overview/)
+-   [Framer Motion](https://www.framer.com/motion/)
+-   [Formik](https://formik.org/)
+-   [React Router](https://reactrouter.com/)
+-   [ApexCharts](https://apexcharts.com/)
+-   [Faker.js](https://fakerjs.dev/)
+-   [React Hook Form](https://react-hook-form.com/)
+-   [React Query](https://react-query.tanstack.com/)
+-   [React Icons](https://react-icons.github.io/react-icons/)
+
+
+## <a id="Installation">Installation</a><br>
+
+1.  Clone the repository to your local machine by using the following command in your terminal
+
+    ```sh
+    git clone https://github.com/[jaxkashif34]/material-kit-swart.git
+    ```
+2.  Change the directory to the cloned repository by using the following command
+
+    ```sh
+    cd material-kit
+    ```
+
+3.  Install the required dependencies by using the following command
+
+    ```sh
+    npm install
+    ```
+
+4.  Start the project by using the following command
+
+    ```sh
+    npm start
+    ```
+
+
+## <a id="Screenshots">Screenshots</a><br>
+
+![Dashboard](./home.png "Dashboard Page")
+![Dashboard](./user.png "User Page")
+![Dashboard](./product.png "Product Page")
+![Dashboard](./blog.png "Blog Page")
+![Dashboard](./login.png "LogIn Page")
+![Dashboard](./register.png "Register Page")
+    
+
+## <a id="Author">Author</a><br>
+
+-   **Author Name** - [Kashif Ali]()
+-   **GitHub Profile** - [jaxkashif34](https://github.com/jaxkashif34)
+-   **LinkedIn Profile** - [jaxkashif34](https://www.linkedin.com/in/jaxkashif34/)
+-   **Email** - **jaxkashif34@gmail.com**
