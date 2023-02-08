@@ -20,7 +20,7 @@ A modern dashboard design using [Material-UI](https://mui.com/material-ui/gettin
 
 ## <a id="Deployment">Deployment</a><br>
 
-The project is deployed on [Vercel](https://vercel.com/dashboard). The demo site is available at https://material-kit-swart.vercel.app/dashboard/.
+The project is deployed on [Vercel](https://vercel.com/dashboard). The demo site is available at https://material-kit-swart.vercel.app/dashboard/app.
 
 ## <a id="Features">Features</a><br>
 
@@ -72,12 +72,12 @@ The project is deployed on [Vercel](https://vercel.com/dashboard). The demo site
 
 ## <a id="Screenshots">Screenshots</a><br>
 
-![Dashboard](./home.png 'Dashboard Page')
-![Dashboard](./user.png 'User Page')
-![Dashboard](./product.png 'Product Page')
-![Dashboard](./blog.png 'Blog Page')
-![Dashboard](./login.png 'LogIn Page')
-![Dashboard](./register.png 'Register Page')
+![Dashboard](./screenshots/home.png 'Dashboard Page')
+![Dashboard](./screenshots/user.png 'User Page')
+![Dashboard](./screenshots/product.png 'Product Page')
+![Dashboard](./screenshots/blog.png 'Blog Page')
+![Dashboard](./screenshots/login.png 'LogIn Page')
+![Dashboard](./screenshots/register.png 'Register Page')
 
 ## <a id="Author">Author</a><br>
 
