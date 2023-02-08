@@ -1,27 +1,50 @@
-An Amazing React Admin Dashboard with Materi Design 
-There are 7 Different Routes 
+If you find this project helpful, consider giving it a ⭐️ to show your support!
 
-. Dashboard
-. Users
-. Product
-. Blog
-. Login
-. Register
-. Not Found
+Material-Kit
+A modern dashboard design using Material-UI, React, and other popular technologies.
 
+Table of Contents
+Features
+Technologies
+Installation
+Screenshots
+Author
+Features
+Modern dashboard design
+Dynamic data generation with Faker.js
+Interactive chart with ApexCharts
+User-friendly form validation with Formik
+Rich animations and interactions with Framer Motion
+Client-side routing with React Router
+Technologies
+React
+Material-UI
+Framer Motion
+Formik
+React Router
+ApexCharts
+Faker.js
+React Hook Form
+React Query
+React Icons
+Installation
+Clone the repository to your local machine by using the following command in your terminal
 
-How to Run the App 
-1. Download the Zip file or just clone this repo from this link or you can just fork it and make it your and do some experiments 🧪 on it..
+git clone https://github.com/[jaxkashif34]/material-kit-swart.git
+Change the directory to the cloned repository by using the following command
 
-clone link : "https://github.com/jaxkashif34/Material-kit.git"
+cd material-kit
+Install the required dependencies by using the following command
 
-2. run this command 
-    cd app_name
+npm install
+Start the project by using the following command
 
-3. npm install 
+npm start
+Screenshots
+Dashboard Dashboard Dashboard Dashboard Dashboard Dashboard
 
-4. npm start
-
-5. At last go the 
-http://localhost:3000
-
+Author
+Author Name - Kashif Ali
+GitHub Profile - jaxkashif34
+LinkedIn Profile - jaxkashif34
+Email - jaxkashif34@gmail.com

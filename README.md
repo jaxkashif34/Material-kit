@@ -1,3 +1,4 @@
+**If you find this project helpful, consider giving it a ⭐️ to show your support!**
 ## Material-Kit
 
 A modern dashboard design using [Material-UI](https://mui.com/material-ui/getting-started/overview/), [React](https://reactjs.org/), and other popular technologies.
