@@ -20,7 +20,7 @@ A modern dashboard design using [Material-UI](https://mui.com/material-ui/gettin
 
 ## <a id="Deployment">Deployment</a><br>
 
-The project is deployed on [Vercel](https://vercel.com/dashboard). The demo site is available at https://material-kit-swart.vercel.app/dashboard/app.
+The project is deployed on [Vercel](https://vercel.com/dashboard). The demo site is available at [Demo](https://material-kit-swart.vercel.app/dashboard/app).
 
 ## <a id="Features">Features</a><br>
 
